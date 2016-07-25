@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=test
+IAge=3
+Name=Productive Writting Mode
+Description=Plugin that makes you productive by forcing you. After all, if you don't continiue writting, it is going to start eating the words you have already written.
+Authors=Sara Jakša <sarajaksa@gmail.com>
+Copyright=Uncopyrighted
